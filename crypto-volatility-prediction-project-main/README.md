@@ -244,18 +244,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👨‍💻 Author
-
-PW Skills Student - Java + DSA Track
-Machine Learning & Data Science Project
-
-## 🙏 Acknowledgments
-
-- PW Skills for project guidance
-- scikit-learn documentation
-- Streamlit community
-- Open-source community
-
 ## 📞 Contact
 
 For questions or feedback, please open an issue in the GitHub repository.
